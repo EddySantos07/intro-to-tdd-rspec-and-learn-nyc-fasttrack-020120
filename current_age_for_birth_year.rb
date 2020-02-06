@@ -1,2 +1,2 @@
-def current_age_for_birth_year (age)
-  return age - 
+def current_age_for_birth_year ()
+  return age -
