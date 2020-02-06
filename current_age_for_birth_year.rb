@@ -3,4 +3,4 @@
 # end
 def current_age_for_birth_year (year)
 
-  return 
+  return Time.now.year
